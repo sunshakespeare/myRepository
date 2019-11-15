@@ -1,2 +1,1 @@
-# myRepository
-mytest
+我不会使用git，如果有好兄弟加我微信sunzhongke123慢慢教我好爱好爱你
